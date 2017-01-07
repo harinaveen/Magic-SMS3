@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af0151c25b3db93d478b8e2684a05744426e84dc">
+        <dex dex="/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fb06bf0fabf18c9ce3b80fdb49c46a4a22b405c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/naveen/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_d957c1253c8a98e86daa825b55eb1d95677e88ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baf7ad1fb92c5625fdf4a1c97fb58a1eb9a1996e">
+        <dex dex="/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46576c15e7328cd25e846449d9cb9ecde6371634/classes.dex" />
+    </item>
+
+</items>

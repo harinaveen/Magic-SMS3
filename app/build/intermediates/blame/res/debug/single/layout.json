@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/res/merged/debug/layout/activity_cancel.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/layout/activity_cancel.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/res/merged/debug/layout/activity_send_sms.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/layout/activity_send_sms.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/res/merged/debug/layout/activity_about_us.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/layout/activity_about_us.xml"
+    }
+]

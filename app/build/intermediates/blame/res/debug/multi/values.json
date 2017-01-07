@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 52,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 59,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 59,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 59,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 59,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 59,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 59,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "/home/naveen/AndroidStudioProjects/Magic-SMS3/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

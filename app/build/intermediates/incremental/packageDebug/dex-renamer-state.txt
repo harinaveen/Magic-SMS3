@@ -1,0 +1,7 @@
+#Fri Jan 06 14:39:59 IST 2017
+base.0=/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fb06bf0fabf18c9ce3b80fdb49c46a4a22b405c4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46576c15e7328cd25e846449d9cb9ecde6371634/classes.dex
+base.1=/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46576c15e7328cd25e846449d9cb9ecde6371634
+file.0=/home/naveen/AndroidStudioProjects/Magic-SMS3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fb06bf0fabf18c9ce3b80fdb49c46a4a22b405c4/classes.dex
